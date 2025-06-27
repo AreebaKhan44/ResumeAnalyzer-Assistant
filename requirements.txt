@@ -1,0 +1,5 @@
+streamlit
+openai
+pdfplumber
+python-docx
+scikit-learn
